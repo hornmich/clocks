@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IN-16_NIXIE_DISPLAY_TUBE
+D IN16 SSSR Nixie display tube
+$ENDCMP
+#
+$CMP LT1006
+D Linear Amplifier
+F https://www.tme.eu/en/Document/e2e277e081e7e52b5e25a879781a9945/lt1006s8.pdf
+$ENDCMP
+#
+$CMP Neon_bulb
+D Neone bulb 55-90V
+$ENDCMP
+#
+$CMP STM32L432Kx
+D Ultra-low-power ARM® Cortex®-M4 32-bit MCU+FPU, 100DMIPS, up to 256KB Flash, 64KB SRAM, USB FS, analog, audio
+F en.DM00257205.pdf
+$ENDCMP
+#
+#End Doc Library
